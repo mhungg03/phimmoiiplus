@@ -1,0 +1,54 @@
+ul {
+    list-style: none;
+}
+.header {
+    background-color: #151414;
+    padding: 5px 0 0;
+    margin: 0 0;
+}
+.header img {
+    height: 60px;
+    padding:12px;
+}
+.nav-link {
+    color: #fff !important;
+    text-transform: uppercase;
+    font-size: 14px !important;
+}
+.btn-icon {
+    color: white;
+}
+.dropdown-menu {
+    background-color: black !important;
+    width: 350px;
+}
+.dropdown-menu li {
+    display: inline-block;
+    width: 50%;
+    margin-bottom: 4px;
+}
+.dropdown-item {
+    color: white !important;
+}
+.dropdown-menu a:hover {
+    color: yellow !important;
+    background-color: black;
+}
+/* Mobile width < 740px */
+@media only screen and (max-width: 739px) {
+    .dropdown-menu {
+        width: 100%;
+    }
+    .dropdown-menu li {
+        width: 50%;
+    }
+}
+/* Tablet: width >= 740px and width < 1024px */
+@media only screen and (min-width: 740px) and (max-width:1023px) {
+    .dropdown-menu {
+        width: 100%;
+    }
+    .dropdown-menu li {
+        width: 25%;
+    }
+}
