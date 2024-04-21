@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/phimmoiiplus/static/css/main.cdacea8b.css",
+    "main.js": "/phimmoiiplus/static/js/main.5b8637b2.js",
+    "static/js/453.ec358b30.chunk.js": "/phimmoiiplus/static/js/453.ec358b30.chunk.js",
+    "index.html": "/phimmoiiplus/index.html",
+    "main.cdacea8b.css.map": "/phimmoiiplus/static/css/main.cdacea8b.css.map",
+    "main.5b8637b2.js.map": "/phimmoiiplus/static/js/main.5b8637b2.js.map",
+    "453.ec358b30.chunk.js.map": "/phimmoiiplus/static/js/453.ec358b30.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdacea8b.css",
+    "static/js/main.5b8637b2.js"
+  ]
+}
